@@ -8,7 +8,7 @@ Una frase para cada momento del día, solo para ti: versículos de la Biblia, es
 
 - Saluda por nombre: **Buenos días / Buenas tardes / Buenas noches, Hugo**.
 - Una frase distinta a las **7:00**, **14:00** y **20:00**. Antes de las 7:00 sigue la de la noche anterior.
-- **148 frases**: 49 Biblia, 37 estoicos, 27 mafia, 35 cine. Cada día mezcla tres categorías distintas y no se repite ninguna hasta haberlas recorrido todas.
+- **235 frases**: 80 Biblia, 56 estoicos, 36 mafia, 63 cine. Cada día mezcla tres categorías distintas y ninguna se repite en menos de 48 días.
 - Botón **Otra frase** para una extra al azar, **Guardar** favoritas y **Compartir**.
 - **Biblioteca** con búsqueda (ignora acentos) y filtros por categoría o favoritas.
 - Avisos opcionales del navegador a las 7, 14 y 20 h.
